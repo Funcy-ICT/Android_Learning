@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2nd_app</string>
+    <string name="btAdd">追加する</string>
+    <string-array name="cities">
+        <item>函館</item>
+        <item>札幌</item>
+        <item>旭川</item>
+        <item>釧路</item>
+        <item>石狩</item>
+    </string-array>
+</resources>
